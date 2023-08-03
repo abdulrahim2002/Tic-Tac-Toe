@@ -1,4 +1,6 @@
 # Tic-Tac-Toe
+## Built using pygame
+## uses mini-max algorithm
 
 ## 1
 ![image](https://github.com/abdulrahim2002/Tic-Tac-Toe/assets/89011337/b3daaecc-f6d1-4cef-8d0f-8f132839010e)
